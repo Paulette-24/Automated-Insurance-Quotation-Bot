@@ -1,5 +1,5 @@
 # **Insurance Quotation Automation Using Rasa Chatbot**
-![Alt text](./images/pic2.webp)
+![Alt text](./images/pic.webp)
 
 
 # Table of Contents
